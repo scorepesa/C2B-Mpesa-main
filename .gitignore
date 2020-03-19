@@ -1,0 +1,6 @@
+*.pyc
+*.log
+*.nja
+ve
+ve/*
+run.sh
