@@ -18,7 +18,7 @@ idna==2.0
 inflect==0.2.5
 ipaddress==1.0.16
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 kombu==3.0.34
 logutils==0.3.3
 MarkupSafe==0.23
