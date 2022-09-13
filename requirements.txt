@@ -12,7 +12,7 @@ enum34==1.1.2
 Flask==0.10.1
 Flask-RESTful==0.3.5
 Flask-SQLAlchemy==2.1
-flower==0.8.4
+flower==1.2.0
 futures==3.0.5
 idna==2.0
 inflect==0.2.5
